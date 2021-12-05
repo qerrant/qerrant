@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in GameDev, Machine Learning and everything related to computer science
+- 👀 I’m interested in Networks, AI, Machine Learning and everything related to computer science
 
 <!---
 qerrant/qerrant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
